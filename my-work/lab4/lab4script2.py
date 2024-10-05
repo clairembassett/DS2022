@@ -22,3 +22,5 @@ response = s3.generate_presigned_url(
 )
 
 print(f"Presigned URL: {response}")
+
+#Presigned URL Example: https://ds2022-qxm6fm.s3.amazonaws.com/googlelogo_color_272x92dp.png?response-content-disposition=inline&AWSAccessKeyId=AKIAYEKP5HVVRGIO7UWH&Signature=ThIuXgvpMrdSC7c6j09lIJNBQ9A%3D&Expires=1728698855
